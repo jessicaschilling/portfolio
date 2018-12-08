@@ -583,7 +583,7 @@ class App extends Component {
                 <div className="dj-history-text">
                   <h3>Radio &amp; broadcast</h3>
                   <ul>
-                    <li className="site-check"><a href="https://www.mixcloud.com/upload/irisberkeley" target="_blank" rel="noopener noreferrer">Interface Message Processor</a>, Mixcloud, monthly</li>
+                    <li className="site-check"><a href="https://www.mixcloud.com/irisberkeley" target="_blank" rel="noopener noreferrer">Interface Message Processor</a>, Mixcloud, monthly</li>
                     <li className="site-check"><a href="http://www.afterfm.com/index.cfm/fuseaction/shows.permalink/showID/17/showDate/2018-10-23/showName/Sleepless%20Nights/kgnuShowID/151541" target="_blank" rel="noopener noreferrer">Sleepless Nights</a>, KGNU-FM, October 2018</li>
                     <li className="site-check"><a href="http://www.afterfm.com/index.cfm/fuseaction/shows.permalink/showID/17/showDate/2017-10-22/showName/Sleepless%20Nights/kgnuShowID/126499" target="_blank" rel="noopener noreferrer">Sleepless Nights</a>, KGNU-FM, October 2017</li>
                     <li className="site-check"><a href="http://www.afterfm.com/index.cfm/fuseaction/shows.permalink/showID/31/showDate/2017-07-19/showName/Musica%20Mundi/kgnuShowID/120754" target="_blank" rel="noopener noreferrer">Musica Mundi</a>, KGNU-FM, July 2017</li>
