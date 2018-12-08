@@ -535,6 +535,13 @@ ul {
 	border-bottom: 0;
 }
 
+.modal-image {
+	height: 100%;
+	.image {
+		height: auto !important;
+	}
+}
+
 .close {
 	font-size: 2rem;
 }
