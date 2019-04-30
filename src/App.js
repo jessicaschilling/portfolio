@@ -450,7 +450,13 @@ class App extends Component {
           </div>
           <div className="col-md-6">
             <div className="experience-item mb-4">
-              <span className="date"><span className="icon-calendar"></span> 2017-present</span>
+              <span className="date"><span className="icon-calendar"></span> 2019-present</span>
+              <h4>User experience lead</h4>
+              <p>Protocol Labs</p>
+            </div>
+      
+            <div className="experience-item mb-4">
+              <span className="date"><span className="icon-calendar"></span> 2017-2019</span>
               <h4>Senior product designer</h4>
               <p>Solaria Labs at Liberty Mutual</p>
             </div>
@@ -469,8 +475,8 @@ class App extends Component {
 
             <div className="experience-item mb-4">
               <span className="date"><span className="icon-calendar"></span> 2005-2006</span>
-              <h4>Product owner &amp; editor</h4>
-              <p>Criterion Publishing Ltd</p>
+              <h4>Brand manager &amp; UX strategist</h4>
+              <p>Inspired Signage</p>
             </div>
 
           </div>
@@ -487,12 +493,6 @@ class App extends Component {
               <span className="date"><span className="icon-calendar"></span> 2011-2014</span>
               <h4>UX, design &amp; communications</h4>
               <p>University of Colorado Boulder</p>
-            </div>
-
-            <div className="experience-item mb-4">
-              <span className="date"><span className="icon-calendar"></span> 2005</span>
-              <h4>Brand manager &amp; UX strategist</h4>
-              <p>Inspired Signage</p>
             </div>
 
             <div className="experience-item mb-4">
