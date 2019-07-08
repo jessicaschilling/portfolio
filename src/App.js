@@ -454,7 +454,7 @@ class App extends Component {
               <h4>User experience lead</h4>
               <p>Protocol Labs</p>
             </div>
-      
+
             <div className="experience-item mb-4">
               <span className="date"><span className="icon-calendar"></span> 2017-2019</span>
               <h4>Senior product designer</h4>
@@ -471,12 +471,6 @@ class App extends Component {
               <span className="date"><span className="icon-calendar"></span> 2007-2010</span>
               <h4>Web designer &amp; UX specialist</h4>
               <p>Go Daddy</p>
-            </div>
-
-            <div className="experience-item mb-4">
-              <span className="date"><span className="icon-calendar"></span> 2005-2006</span>
-              <h4>Brand manager &amp; UX strategist</h4>
-              <p>Inspired Signage</p>
             </div>
 
           </div>
@@ -499,6 +493,12 @@ class App extends Component {
               <span className="date"><span className="icon-calendar"></span> 2003-2005</span>
               <h4>Managing editor &amp; product owner</h4>
               <p>World Media Publishing Ltd</p>
+            </div>
+
+            <div className="experience-item mb-4">
+              <span className="date"><span className="icon-calendar"></span> 2005-2006</span>
+              <h4>Brand manag er &amp; UX strategist</h4>
+              <p>Inspired Signage</p>
             </div>
 
           </div>
@@ -584,11 +584,11 @@ class App extends Component {
                   <h3>Radio &amp; broadcast</h3>
                   <ul>
                     <li className="site-check"><a href="https://www.mixcloud.com/irisberkeley" target="_blank" rel="noopener noreferrer">Interface Message Processor</a>, Mixcloud, monthly</li>
+                    <li className="site-check"><a href="http://www.afterfm.com/index.cfm/fuseaction/shows.permalink/showID/17/showDate/2019-07-07/showName/Sleepless%20Nights/kgnuShowID/170499" target="_blank" rel="noopener noreferrer">Sleepless Nights</a>, KGNU-FM, July 2019</li>
                     <li className="site-check"><a href="http://www.afterfm.com/index.cfm/fuseaction/shows.permalink/showID/17/showDate/2018-10-23/showName/Sleepless%20Nights/kgnuShowID/151541" target="_blank" rel="noopener noreferrer">Sleepless Nights</a>, KGNU-FM, October 2018</li>
                     <li className="site-check"><a href="http://www.afterfm.com/index.cfm/fuseaction/shows.permalink/showID/17/showDate/2017-10-22/showName/Sleepless%20Nights/kgnuShowID/126499" target="_blank" rel="noopener noreferrer">Sleepless Nights</a>, KGNU-FM, October 2017</li>
                     <li className="site-check"><a href="http://www.afterfm.com/index.cfm/fuseaction/shows.permalink/showID/31/showDate/2017-07-19/showName/Musica%20Mundi/kgnuShowID/120754" target="_blank" rel="noopener noreferrer">Musica Mundi</a>, KGNU-FM, July 2017</li>
                     <li className="site-check"><a href="http://www.afterfm.com/index.cfm/fuseaction/shows.permalink/showID/27/showDate/2016-07-05/showName/Corriente/kgnuShowID/99411" target="_blank" rel="noopener noreferrer">&#161;Corriente!</a>, KGNU-FM, July 2016</li>
-                    <li className="site-check"><a href="http://www.kgnu.org/musica/1/23/2013" target="_blank" rel="noopener noreferrer">Musica Mundi</a>, KGNU-FM, January 2013</li>
                   </ul>
                 </div>
               </div>
