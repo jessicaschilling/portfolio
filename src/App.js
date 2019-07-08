@@ -494,6 +494,12 @@ class App extends Component {
               <h4>Managing editor &amp; product owner</h4>
               <p>World Media Publishing Ltd</p>
             </div>
+      
+            <div className="experience-item mb-4">
+              <span className="date"><span className="icon-calendar"></span> 2005-2006</span>
+              <h4>Brand manager &amp; UX strategist</h4>
+              <p>Inspired Signage</p>
+            </div>
 
             <div className="experience-item mb-4">
               <span className="date"><span className="icon-calendar"></span> 2005-2006</span>
