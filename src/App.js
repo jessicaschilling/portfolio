@@ -516,8 +516,8 @@ class App extends Component {
             <div className="section-heading">
               <h2>I also <strong>play music for people.</strong></h2>
             </div>
-            <p className="lead">Since 2010, I've had the privilege to DJ both traditional and alternative Argentine tango music at a wide variety of festivals, marathons, encuentros and milongas <a href="https://www.google.com/maps/@39.5705631,-107.7392191,4z/data=!3m1!4b1!4m2!6m1!1s1HV_roDvanRxxzTWYDLujO07aURE" target="_blank" rel="noopener noreferrer">across North America</a>.</p>
-            <p className="lead">I'm also an experienced radio DJ and announcer with expertise across a number of formats, including classical, jazz, world, classic rock, independent pop/electronic and freeform.</p>
+            <p className="lead">I'm a versatile <strong>broadcast and event DJ</strong> with experience across a wide range of formats &mdash; everything from house to funk to jazz to lounge to freeform radio.</p>
+            <p className="lead">I've also had the privilege to DJ both traditional and alternative <strong>Argentine tango music</strong> since 2010 at a wide variety of festivals, marathons, encuentros and milongas <a href="https://www.google.com/maps/@39.5705631,-107.7392191,4z/data=!3m1!4b1!4m2!6m1!1s1HV_roDvanRxxzTWYDLujO07aURE" target="_blank" rel="noopener noreferrer">across North America</a>.</p>
             <p>
               <a href="mailto:mail@jessicaschilling.com?subject=DJ booking enquiry" className="btn btn-primary px-4 py-2 smoothscroll">Booking</a>
               <a href="http://www.jessicaschilling.com/jessicaschilling-djbio.pdf" target="_blank" rel="noopener noreferrer" className="btn btn-secondary px-4 py-2">Bio</a>
@@ -540,20 +540,35 @@ class App extends Component {
 
         <div className="container-fluid content-row">
           <div className="row">
+
+            <div className="col-sm-12 col-lg-4 mb-4">
+              <div className="card h-100 dj-history">
+                <img src="img/dj-broadcast.png" alt="Radio control board" className="img-fluid"/>
+                <div className="dj-history-text">
+                  <h3>Live events &amp; radio</h3>
+                  <ul>
+                    <li className="site-check"><a href="https://www.mixcloud.com/irisberkeley" target="_blank" rel="noopener noreferrer">The Cover-Up</a>, KVCU Radio 1190, weekly</li>
+                    <li className="site-check"><a href="http://www.afterfm.com/IrisBerkeley" target="_blank" rel="noopener noreferrer">Sleepless Nights</a>, KGNU-FM, monthly</li>
+                    <li className="site-check"><a href="https://www.mixcloud.com/irisberkeley" target="_blank" rel="noopener noreferrer">Interface Message Processor</a>, Mixcloud, monthly</li>
+                    <li className="site-check">Residency at Marina's by the Sea, Susak, Croatia, July 2019</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+
             <div className="col-sm-12 col-lg-4 mb-4">
               <div className="card h-100 dj-history">
                 <img src="img/dj-festivals.png" alt="Tango dancers" className="img-fluid"/>
                 <div className="dj-history-text">
-                  <h3>Festivals &amp; marathons</h3>
+                  <h3>Tango festivals</h3>
                   <ul>
+                    <li className="site-check">ValenTango 2015-20</li>
+                    <li className="site-check">Albuquerque Tango Festival 2015-19</li>
                     <li className="site-check">LA Tango Marathon 2017-18</li>
-                    <li className="site-check">ValenTango 2015-19</li>
                     <li className="site-check">Tucson Tango Festival 2019</li>
                     <li className="site-check">San Diego Tango Festival 2016 &amp; 18</li>
+                    <li className="site-check">Burning Tango 2013-14 &amp; 2017-20</li>
                     <li className="site-check">BOSthón 2016-18</li>
-                    <li className="site-check">Albuquerque Tango Festival 2015-18</li>
-                    <li className="site-check">Denver Tango Festival 2013-16</li>
-                    <li className="site-check">Burning Tango 2013-14 &amp; 17-19</li>
                   </ul>
                 </div>
               </div>
@@ -563,36 +578,20 @@ class App extends Component {
               <div className="card h-100 dj-history">
                 <img src="img/dj-encuentros.png" alt="Tango dancing couple" className="img-fluid"/>
                 <div className="dj-history-text">
-                  <h3>Encuentros &amp; workshops</h3>
+                  <h3>Tango encuentros</h3>
                   <ul>
                     <li className="site-check">Two Moon Tango Encuentro 2017-18</li>
+                    <li className="site-check">Taboe Tango Camp 2019</li>
                     <li className="site-check">Salida Casa Tango 2014 &amp; 17</li>
                     <li className="site-check">Haw River Tango Encuentro 2017</li>
                     <li className="site-check">Stowe Tango Music Festival 2016-18</li>
                     <li className="site-check">Port Townsend Encuentro 2015</li>
-                    <li className="site-check">Tango in Thomaston 2014-16</li>
                     <li className="site-check">Tango Social Club Montréal 2017</li>
                   </ul>
                 </div>
               </div>
             </div>
 
-            <div className="col-sm-12 col-lg-4 mb-4">
-              <div className="card h-100 dj-history">
-                <img src="img/dj-broadcast.png" alt="Radio control board" className="img-fluid"/>
-                <div className="dj-history-text">
-                  <h3>Radio &amp; broadcast</h3>
-                  <ul>
-                    <li className="site-check"><a href="https://www.mixcloud.com/irisberkeley" target="_blank" rel="noopener noreferrer">Interface Message Processor</a>, Mixcloud, monthly</li>
-                    <li className="site-check"><a href="http://www.afterfm.com/index.cfm/fuseaction/shows.permalink/showID/17/showDate/2019-07-07/showName/Sleepless%20Nights/kgnuShowID/170499" target="_blank" rel="noopener noreferrer">Sleepless Nights</a>, KGNU-FM, July 2019</li>
-                    <li className="site-check"><a href="http://www.afterfm.com/index.cfm/fuseaction/shows.permalink/showID/17/showDate/2018-10-23/showName/Sleepless%20Nights/kgnuShowID/151541" target="_blank" rel="noopener noreferrer">Sleepless Nights</a>, KGNU-FM, October 2018</li>
-                    <li className="site-check"><a href="http://www.afterfm.com/index.cfm/fuseaction/shows.permalink/showID/17/showDate/2017-10-22/showName/Sleepless%20Nights/kgnuShowID/126499" target="_blank" rel="noopener noreferrer">Sleepless Nights</a>, KGNU-FM, October 2017</li>
-                    <li className="site-check"><a href="http://www.afterfm.com/index.cfm/fuseaction/shows.permalink/showID/31/showDate/2017-07-19/showName/Musica%20Mundi/kgnuShowID/120754" target="_blank" rel="noopener noreferrer">Musica Mundi</a>, KGNU-FM, July 2017</li>
-                    <li className="site-check"><a href="http://www.afterfm.com/index.cfm/fuseaction/shows.permalink/showID/27/showDate/2016-07-05/showName/Corriente/kgnuShowID/99411" target="_blank" rel="noopener noreferrer">&#161;Corriente!</a>, KGNU-FM, July 2016</li>
-                  </ul>
-                </div>
-              </div>
-            </div>
           </div>
 
         </div>
