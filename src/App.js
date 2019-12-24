@@ -56,7 +56,7 @@ class App extends Component {
             <div className="section-heading">
               <h2>Hi. I'm <strong>Jessica Schilling</strong>.</h2>
             </div>
-            <p className="lead">Based in Boston and Boulder, I'm a user experience strategist, product designer and information architect with a proven track record in both strategic and tactical execution for companies ranging from small startups to multinational corporations.</p>
+            <p className="lead">Based in Boulder, CO, and Boston, MA, I'm a user experience strategist, product designer and information architect with a proven track record in both strategic and tactical execution for companies ranging from small startups to multinational corporations.</p>
             <p>
               <a href="http://www.jessicaschilling.com/jessica-schilling.pdf" target="_blank" rel="noopener noreferrer" className="btn btn-primary px-4 py-2 btn-sm smoothscroll">View my r&eacute;sum&eacute;</a>
             </p>
@@ -516,7 +516,7 @@ class App extends Component {
             <div className="section-heading">
               <h2>I also <strong>play music for people.</strong></h2>
             </div>
-            <p className="lead">I'm a versatile broadcast and event DJ (appearing as <a href="http://www.instagram.com/irisberkeley" target="_blank" rel="noopener noreferrer">Iris Berkeley</a>) with experience across a wide range of formats &mdash; everything from house to funk to jazz to lounge to freeform radio.</p>
+            <p className="lead">I'm a versatile broadcast and event DJ (appearing as <a href="http://www.instagram.com/irisberkeley" target="_blank" rel="noopener noreferrer">Iris Berkeley</a>) with experience across a wide range of formats &mdash; everything from house to funk to lounge to jazz to freeform radio.</p>
             <p className="lead">I've also had the privilege to DJ both traditional and alternative Argentine tango music since 2010 at a wide variety of festivals, marathons, encuentros and milongas <a href="https://www.google.com/maps/@39.5705631,-107.7392191,4z/data=!3m1!4b1!4m2!6m1!1s1HV_roDvanRxxzTWYDLujO07aURE" target="_blank" rel="noopener noreferrer">across North America</a>.</p>
             <p>
               <a href="mailto:mail@jessicaschilling.com?subject=DJ booking enquiry" className="btn btn-primary px-4 py-2 smoothscroll">Booking</a>
@@ -547,9 +547,9 @@ class App extends Component {
                 <div className="dj-history-text">
                   <h3>Live events &amp; radio</h3>
                   <ul>
-                    <li className="site-check"><a href="https://www.mixcloud.com/irisberkeley" target="_blank" rel="noopener noreferrer">The Cover-Up</a>, KVCU Radio 1190, weekly</li>
-                    <li className="site-check"><a href="http://www.afterfm.com/IrisBerkeley" target="_blank" rel="noopener noreferrer">Sleepless Nights</a>, KGNU-FM, monthly</li>
-                    <li className="site-check"><a href="https://www.mixcloud.com/irisberkeley" target="_blank" rel="noopener noreferrer">Interface Message Processor</a>, Mixcloud, monthly</li>
+                    <li className="site-check"><a href="http://www.afterfm.com/IrisBerkeley" target="_blank" rel="noopener noreferrer">Afternoon Sound Alternative</a> and <a href="http://www.afterfm.com/IrisBerkeley" target="_blank" rel="noopener noreferrer">Sleepless Nights</a>, KGNU-FM</li>
+                    <li className="site-check"><a href="https://www.mixcloud.com/irisberkeley" target="_blank" rel="noopener noreferrer">Modern Jetset</a> and <a href="https://www.mixcloud.com/irisberkeley" target="_blank" rel="noopener noreferrer">The Cover-Up</a>, KVCU Radio 1190</li>
+                    <li className="site-check"><a href="https://www.mixcloud.com/irisberkeley" target="_blank" rel="noopener noreferrer">Interface Message Processor</a> monthly mixtape, Mixcloud</li>
                     <li className="site-check">Residency at Marina's by the Sea, Susak, Croatia, July 2019</li>
                   </ul>
                 </div>
@@ -564,7 +564,7 @@ class App extends Component {
                   <ul>
                     <li className="site-check">ValenTango 2015-20</li>
                     <li className="site-check">Albuquerque Tango Festival 2015-19</li>
-                    <li className="site-check">LA Tango Marathon 2017-18</li>
+                    <li className="site-check">LA Tango Marathon 2017-18 &amp; 2020</li>
                     <li className="site-check">Tucson Tango Festival 2019</li>
                     <li className="site-check">San Diego Tango Festival 2016 &amp; 18</li>
                     <li className="site-check">Burning Tango 2013-14 &amp; 2017-20</li>
@@ -580,8 +580,8 @@ class App extends Component {
                 <div className="dj-history-text">
                   <h3>Tango encuentros</h3>
                   <ul>
+                    <li className="site-check">Pioneer Encuentro 2020</li>
                     <li className="site-check">Two Moon Tango Encuentro 2017-18</li>
-                    <li className="site-check">Taboe Tango Camp 2019</li>
                     <li className="site-check">Salida Casa Tango 2014 &amp; 17</li>
                     <li className="site-check">Haw River Tango Encuentro 2017</li>
                     <li className="site-check">Stowe Tango Music Festival 2016-18</li>
