@@ -23,12 +23,12 @@ workflows:
     build-and-test:
       jobs:
         - build-and-test
-   build-test-and-deploy:
-     jobs:
-       - build-and-test
-       - deploy:
-           requires:
-             - build-and-test # only deploy once build job has completed
-           filters:
-             branches:
-               only: master # only deploy on the master branch
+    build-test-and-deploy:
+      jobs:
+        - build-and-test
+        - deploy:
+            requires:
+              - build-and-test # only deploy once build job has completed
+            filters:
+              branches:
+                only: master # only deploy on the master branch
