@@ -11,7 +11,24 @@ jobs:
           steps:
             - run: npm install
             - run: npm test
+  deploy:
+     machine:
+       enabled: true
+     steps:
+       - run:
+           name: Deploy over SSH
+           command: |
+             ssh jessgcom@www14.qth.com "<remote deploy command>"
 workflows:
     build-and-test:
       jobs:
         - build-and-test
+    build-test-and-deploy:
+      jobs:
+        - build-and-test
+        - deploy:
+            requires:
+              - build-and-test # only deploy once build job has completed
+            filters:
+              branches:
+                only: master # only deploy on the master branch
