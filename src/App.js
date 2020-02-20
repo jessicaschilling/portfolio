@@ -548,7 +548,7 @@ class App extends Component {
                   <h3>Live events &amp; radio</h3>
                   <ul>
                     <li className="site-check"><a href="http://www.afterfm.com/IrisBerkeley" target="_blank" rel="noopener noreferrer">Afternoon Sound Alternative</a> and <a href="http://www.afterfm.com/IrisBerkeley" target="_blank" rel="noopener noreferrer">Sleepless Nights</a>, KGNU-FM</li>
-                    <li className="site-check"><a href="https://www.mixcloud.com/irisberkeley" target="_blank" rel="noopener noreferrer">Modern Jetset</a> and <a href="https://www.mixcloud.com/irisberkeley/playlists/the-cover-up-radio-1190/" target="_blank" rel="noopener noreferrer">The Cover-Up</a>, KVCU Radio 1190</li>
+                    <li className="site-check"><a href="https://www.mixcloud.com/irisberkeley/playlists/modern-jetset-radio-1190/" target="_blank" rel="noopener noreferrer">Modern Jetset</a> and <a href="https://www.mixcloud.com/irisberkeley/playlists/the-cover-up-radio-1190/" target="_blank" rel="noopener noreferrer">The Cover-Up</a>, KVCU Radio 1190</li>
                     <li className="site-check"><a href="https://www.mixcloud.com/irisberkeley/playlists/interface-message-processor/" target="_blank" rel="noopener noreferrer">Interface Message Processor</a> monthly mixtape, Mixcloud</li>
                     <li className="site-check">Residency at Marina's by the Sea, Susak, Croatia, July 2019</li>
                   </ul>
@@ -639,8 +639,8 @@ class App extends Component {
           <div className="col-md-6">
               <div className="blockquote d-flex mb-4">
                 <blockquote className="blockquote-quote">
-                  <p>&ldquo;Awesome, awesome, awesome ... Jessica's Saturday night milonga was exactly right.&rdquo;</p>
-                  <div className="blockquote-quote-author">&mdash; ValenTango 2018</div>
+                  <p>&ldquo;If there's a better DJ anywhere than Jessica Schilling, I don't know who it is. My vocabulary lacks superlatives sufficiently grandiose to express the extent of my gratitude!&rdquo;</p>
+                  <div className="blockquote-quote-author">&mdash; ValenTango 2020</div>
                 </blockquote>
               </div>
           </div>
