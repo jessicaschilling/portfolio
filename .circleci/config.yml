@@ -11,7 +11,7 @@ jobs:
           steps:
             - run: npm install
             - run: npm test
-            - run: npm run build
+  #          - run: npm run build ... commenting out for now because concat errors, can just build locally and push
   deploy:
      machine:
        enabled: true

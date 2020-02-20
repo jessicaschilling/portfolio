@@ -33,7 +33,6 @@ class App extends Component {
 
 
 
-
     <section className="site-hero" style={{backgroundImage: "url(" + "img/portrait-header.jpg" + ")"}} id="home">
       <div className="container">
         <div className="row intro-text align-items-center justify-content-center">
