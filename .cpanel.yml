@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=../home/jessgcom/public_html/
-    - cp -v /build/index.html ../home/jessgcom/public_html/
+    - cp -v ./build/index.html $DEPLOYPATH
