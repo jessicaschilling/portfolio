@@ -9,10 +9,7 @@
 /coverage
 
 # production
-/build
-
-# ci
-/.circleci
+# /build -- removing to include build directory in what gets pushed to cpanel
 
 # misc
 .DS_Store
