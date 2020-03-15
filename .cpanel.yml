@@ -1,4 +1,4 @@
 ---
 deployment:
   tasks:
-    - cp -v ./build/index.html ~/public_html/index.html
+    - /bin/cp -R ./build/ ~/public_html/
