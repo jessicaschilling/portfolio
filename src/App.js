@@ -515,7 +515,7 @@ class App extends Component {
             <div className="section-heading">
               <h2>I also <strong>play music for people.</strong></h2>
             </div>
-            <p className="lead">I'm a versatile broadcast and event DJ (appearing as <a href="http://www.instagram.com/irisberkeley" target="_blank" rel="noopener noreferrer">Iris Berkeley</a>) with experience across a wide range of formats &mdash; everything from house to funk to lounge to jazz to freeform radio.</p>
+            <p className="lead">I'm a versatile broadcast and event DJ (appearing as <a href="http://www.irisberkeley.com" target="_blank" rel="noopener noreferrer">Iris Berkeley</a>) with experience across a wide range of formats &mdash; everything from house to funk to lounge to jazz to freeform radio.</p>
             <p className="lead">I've also had the privilege to DJ both traditional and alternative Argentine tango music since 2010 at a wide variety of festivals, marathons, encuentros and milongas <a href="https://www.google.com/maps/@39.5705631,-107.7392191,4z/data=!3m1!4b1!4m2!6m1!1s1HV_roDvanRxxzTWYDLujO07aURE" target="_blank" rel="noopener noreferrer">across North America</a>.</p>
             <p>
               <a href="mailto:mail@jessicaschilling.com?subject=DJ booking enquiry" className="btn btn-primary px-4 py-2 smoothscroll">Booking</a>
