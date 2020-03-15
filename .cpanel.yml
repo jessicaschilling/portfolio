@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=../home/jessgcom/public_html/
-    - /bin/cp -R build $DEPLOYPATH
+    - /bin/cp build/index.html $DEPLOYPATH
