@@ -11,9 +11,6 @@
 # production
 /build
 
-# ci
-/.circleci
-
 # misc
 .DS_Store
 .env.local
