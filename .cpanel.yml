@@ -1,5 +1,4 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=../public_html
-    - cp -v ./build/index.html $DEPLOYPATH/index.html
+    - cp -v ./build/index.html ./public_html/index.html
