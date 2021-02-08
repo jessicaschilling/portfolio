@@ -1,4 +1,4 @@
-# jessicaschilling: Jessica Schilling
+# jessicaschilling/portfolio: Jessica Schilling
 
 ![type: portfolio (informational)](https://img.shields.io/badge/type-portfolio-informational)
 
