@@ -55,7 +55,7 @@ class App extends Component {
             <div className="section-heading">
               <h2>Hi. I'm <strong>Jessica Schilling</strong>.</h2>
             </div>
-            <p className="lead">Based in Boulder, CO, and Boston, MA, I'm a user experience strategist, product designer and information architect with a proven track record in both strategic and tactical execution for companies ranging from small startups to multinational corporations.</p>
+            <p className="lead">Based in Boulder, CO, I'm a user experience strategist, product designer and information architect with a proven track record in both strategic and tactical execution for companies ranging from small startups to multinational corporations.</p>
             <p>
               <a href="http://www.jessicaschilling.com/jessica-schilling.pdf" target="_blank" rel="noopener noreferrer" className="btn btn-primary px-4 py-2 btn-sm smoothscroll">View my r&eacute;sum&eacute;</a>
             </p>
@@ -71,7 +71,7 @@ class App extends Component {
         <div className="row mb-4">
           <div className="col-md-12">
             <div className="section-heading text-center">
-              <h2>What I can <strong>do for you</strong></h2>
+              <h2>My <strong>core toolbox</strong></h2>
             </div>
           </div>
         </div>
@@ -686,8 +686,8 @@ class App extends Component {
                 <a href="https://www.github.com/jessicaschilling" target="_blank" rel="noopener noreferrer">@jessicaschilling</a>
               </li>
               <li>
-                <span className="text-uppercase">Facebook</span>
-                <a href="https://www.facebook.com/jessicaschilling" target="_blank" rel="noopener noreferrer">@jessicaschilling</a>
+                <span className="text-uppercase">Twitter</span>
+                <a href="https://twitter.com/dzesika" target="_blank" rel="noopener noreferrer">@dzesika</a>
               </li>
             </ul>
           </div>
